@@ -76,7 +76,7 @@ Powered by the ZenQuotes API.
 ## 📦 Download
 
 Latest APK available on the Releases page:  
-https://github.com/KaiParker21/Quotes/releases
+https://github.com/Novaa-a/Quotes/releases
 
 ---
 
